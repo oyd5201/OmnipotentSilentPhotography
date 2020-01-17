@@ -2,16 +2,22 @@
 一个适用任何手机静默拍照demo
 ====
 使用姿势
-  先把TakePicture类拷贝到自己的app中，然后new TakePicture();就能是实现拍照并且保存图片，非常的简单；
 ===
+  先把TakePicture类拷贝到自己的app中，然后new TakePicture();就能是实现拍照并且保存图片，非常的简单；
+====
 适配任何手机camera核心代码
 
+====
 A demo for silent photos of any mobile phone
 ====
 Using posture
-First copy the takepicture class to your own app, and then new takepicture(); you can take photos and save pictures, which is very simple;
+
 ===
+First copy the takepicture class to your own app, and then new takepicture(); you can take photos and save pictures, which is very simple;
+====
 Adapt to any mobile camera core code
+
+===
    int PreviewWidth = 0;
             int PreviewHeight = 0;
             List<Camera.Size> sizeList = mParameters.getSupportedPreviewSizes();
