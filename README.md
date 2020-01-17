@@ -1,0 +1,2 @@
+# OmnipotentSilentPhotography
+一个适用任何手机静默拍照demo
